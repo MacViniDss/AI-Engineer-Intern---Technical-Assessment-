@@ -3,6 +3,8 @@
 ## Overview
 A full-stack Python application that allows users to check the current weather for any location around the globe. Users can search by ZIP code, city name, or landmarks, or use an interactive map to pinpoint exact GPS coordinates. The app features a robust FastAPI backend and a highly interactive Streamlit frontend.
 
+![map](weather_service/output/interative_map.png)
+![weather_info](weather_service/output/weather_info.png)
 ## Features
 * **Text Search:** Find weather data using city names, ZIP codes, or landmarks.
 * **Interactive Map Pop-up:** Click anywhere on an embedded Folium map to fetch weather data for specific coordinates.
