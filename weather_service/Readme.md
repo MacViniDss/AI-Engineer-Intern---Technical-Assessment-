@@ -3,9 +3,10 @@
 ## Overview
 A full-stack Python application that allows users to check the current weather for any location around the globe. Users can search by ZIP code, city name, or landmarks, or use an interactive map to pinpoint exact GPS coordinates. The app features a robust FastAPI backend and a highly interactive Streamlit frontend.
 
-<img src="https://github.com/MacViniDss/AI-Engineer-Intern---Technical-Assessment-/blob/main/weather_service/output/interative_map.png" alt= "Interactive Map">
-
-<img src="https://github.com/MacViniDss/AI-Engineer-Intern---Technical-Assessment-/blob/main/weather_service/output/weather_info.png" alt="Weather Infor">
+<p align="center">
+  <img src="https://github.com/MacViniDss/AI-Engineer-Intern---Technical-Assessment-/blob/main/weather_service/output/weather_info.png" width="45%" />
+  <img src="https://github.com/MacViniDss/AI-Engineer-Intern---Technical-Assessment-/blob/main/weather_service/output interative_map.png" width="45%" />
+</p>
 
 ## Features
 * **Text Search:** Find weather data using city names, ZIP codes, or landmarks.
