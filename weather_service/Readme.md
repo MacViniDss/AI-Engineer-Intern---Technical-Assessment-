@@ -5,7 +5,7 @@ A full-stack Python application that allows users to check the current weather f
 
 <p align="center">
   <img src="https://github.com/MacViniDss/AI-Engineer-Intern---Technical-Assessment-/blob/main/weather_service/output/weather_info.png" width="45%" />
-  <img src="https://github.com/MacViniDss/AI-Engineer-Intern---Technical-Assessment-/blob/main/weather_service/output interative_map.png" width="45%" />
+  <img src="https://github.com/MacViniDss/AI-Engineer-Intern---Technical-Assessment-/blob/main/weather_service/output/interative_map.png" width="45%" />
 </p>
 
 ## Features
