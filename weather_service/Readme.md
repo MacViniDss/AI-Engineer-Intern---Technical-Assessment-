@@ -27,7 +27,7 @@ A full-stack Python application that allows users to check the current weather f
 
 **1. Clone the repository (or create the project folder)**
 ```bash 
-git clone <your-repo-url>
+git clone <[your-repo-url](https://github.com/MacViniDss/AI-Engineer-Intern---Technical-Assessment-.git)>
 cd weather_app
 ```
 **2. Install dependencies**
